@@ -6,4 +6,4 @@
 ```
 
 ### 实测效果
-![demo](scaner_res.png)
+![demo](scaner_final.png)
